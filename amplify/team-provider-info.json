@@ -24,5 +24,18 @@
       "StackId": "arn:aws:cloudformation:eu-north-1:720218765934:stack/amplify-jwcom-dev-134429/7d8cb320-1284-11ee-8190-06d79de188ee",
       "AmplifyAppId": "d9ateih1bnq4c"
     }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jwcom-prod-134804-authRole",
+      "UnauthRoleArn": "arn:aws:iam::720218765934:role/amplify-jwcom-prod-134804-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::720218765934:role/amplify-jwcom-prod-134804-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-jwcom-prod-134804-deployment",
+      "UnauthRoleName": "amplify-jwcom-prod-134804-unauthRole",
+      "StackName": "amplify-jwcom-prod-134804",
+      "StackId": "arn:aws:cloudformation:eu-north-1:720218765934:stack/amplify-jwcom-prod-134804/fd37ce20-1284-11ee-a33e-065c04514bf8",
+      "AmplifyAppId": "d9ateih1bnq4c"
+    }
   }
 }

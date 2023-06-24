@@ -4,5 +4,8 @@
   },
   "dev": {
     "configLevel": "amplifyAdmin"
+  },
+  "prod": {
+    "configLevel": "amplifyAdmin"
   }
 }
