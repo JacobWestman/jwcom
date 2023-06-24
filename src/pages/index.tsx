@@ -1,5 +1,9 @@
+import { Amplify } from "aws-amplify";
 import * as React from "react";
 import type { HeadFC, PageProps } from "gatsby";
+import config from "../aws-exports"
+
+Amplify.configure(config);
 
 const pageStyles = {
   color: "#232129",
